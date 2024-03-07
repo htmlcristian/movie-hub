@@ -26,7 +26,7 @@ Estou empolgado em apresentar o HUB de Filmes, meu primeiro projeto utilizando a
 
 ### Convite Especial
 
-Gostaria de dar uma espiada rápida no projeto? Você pode conferir uma demonstração clicando [aqui](https://htmlcristian.github.io/movie-hub/) (link para ser preenchido com o link real).
+Gostaria de dar uma espiada rápida no projeto? Você pode conferir uma demonstração clicando [aqui](https://htmlcristian.github.io/movie-hub/).
 
 ### Sua Opinião é Importante!
 
